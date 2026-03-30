@@ -1,7 +1,7 @@
 # EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
 
-**DATE: 25/02/2026**
+**DATE: 02/02/2026**
 
 **NAME: ABIRAMI A**
 
@@ -539,15 +539,15 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 1A - OUTPUT
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/df0198be-6291-4d41-8236-78abb5a84639" />
+<img width="480" height="640" alt="image" src="https://github.com/user-attachments/assets/b58e36f2-0e47-4aed-9bb0-5303529b3bde" />
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/b8a1409e-138c-41d7-86fb-367f2a8bff05" />
+<img width="480" height="640" alt="image" src="https://github.com/user-attachments/assets/e60a9355-d9a1-4cbc-a849-204e9cb10aed" />
 
 1B - OUTPUT
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/45a54a31-8bbb-433a-a286-ea458605cab1" />
+<img width="480" height="640" alt="image" src="https://github.com/user-attachments/assets/0033446b-ed40-41a1-bc87-79655bca5dd7" />
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/01f3e127-2d13-461e-8f3c-7435011b984f" />
+<img width="480" height="640" alt="image" src="https://github.com/user-attachments/assets/1c72e9d0-c774-41aa-b39b-d67f466246af" />
 
 
 ## Result
